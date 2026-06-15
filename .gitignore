@@ -1,0 +1,18 @@
+# Ignore the massive 2GB AI model brain
+*.gguf
+
+# Ignore PyInstaller build output folders
+build/
+dist/
+*.spec
+
+# Ignore local python virtual environments
+.venv/
+venv/
+
+# Ignore your private chat history logs
+*.json
+*.log
+
+# Ignore IDE configuration folders
+.idea/
